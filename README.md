@@ -6,7 +6,7 @@
 Don't feed too many citations in 1 request; GPT4o will be "lazy". Feed 10 citations works for me
 ```
 
-Below is the cite.bib from overleaf project. Some citations were drafts in arxiv and may have been published now. For every citation, check if the paper has been published somewhere else. If so, find out the new citation and replace the old one. Get BibTex from Google scholar. Keep the hyperlink. Output the resulting bib file. If you're rated or rejected by the google scholar or other websites, print out errors and proceed to the next citation.
+Below is the cite.bib from overleaf project. Some citations were drafts in arxiv and may have been published now. For every citation, check if the paper has been published somewhere else. If so, find out the new citation and replace the old one. Get BibTex from Google scholar. Keep the hyperlink, e.g. 2406.17322 the same. Output the resulting bib file. If you're rated or rejected by the google scholar or other websites, print out errors and proceed to the next citation.
 
 For example, for the article: ALPBench: A Benchmark for Active Learning Pipelines on Tabular Data  The original arXiv citation is: 
 
